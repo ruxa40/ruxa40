@@ -19,23 +19,6 @@
 </div>
 
 
-### 🌺 ABOUT ME:
--  I am 18;
--  I am Russian;
--  Love crisp
-
-### Использующиеся ЯП и инструменты:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="C++" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" />
-</div>
-
-### 🏆 Achievements:
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ruxa40" alt="Achievements" />
-</div>
 
 ### 😈: Most using langs:
 <div>
