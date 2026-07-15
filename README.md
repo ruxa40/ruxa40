@@ -18,15 +18,3 @@
   <img src="https://komarev.com/ghpvc/?username=ruxa40&style=flat-square&color=blue" alt="" />
 </div>
 
-
-
-### 😈: Most using langs:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruxa40" alt="Most using langs" />
-</div>
-
-### 💀 Activity stats:
-
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruxa40&theme=dracula" alt="GitHub Activity Graph" />
-</div>
